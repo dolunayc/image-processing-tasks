@@ -1,4 +1,3 @@
-# image-processing-tasks
 
 # Image Processing Tasks
 
